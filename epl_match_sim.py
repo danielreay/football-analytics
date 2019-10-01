@@ -1,5 +1,5 @@
 # simulate a given English Premier League match using expected goals for (xG)
-# and expeced goals against (xGA) for 2018/19 season
+# and expected goals against (xGA) for 2018/19 season
 # v1.0 - 15 August 2019
 
 import numpy as np
